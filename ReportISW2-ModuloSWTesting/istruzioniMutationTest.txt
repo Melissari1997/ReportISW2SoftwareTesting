@@ -1,0 +1,2 @@
+Per attivare il mutation test tramite PIT, eseguire il comando:
+- mvn verify -Ppit-test
